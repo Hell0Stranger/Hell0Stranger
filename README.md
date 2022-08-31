@@ -8,5 +8,5 @@
         "text": "f9f9f9",
         "textBg": "282829"
     }
-![header](https://capsule-render.vercel.app/api?type=wave&color=AFB4FF&height=300&section=header&text=Hello%Stranger%!%!&fontColor=F9F9F9&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient(D3E4CD,ADC2A9,99A799)&height=300&section=header&text=Hello%Stranger%!%!&fontColor=F9F9F9&fontSize=70&fontAlignY=40)
 #  👋🏻
