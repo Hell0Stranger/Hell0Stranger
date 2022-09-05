@@ -1,12 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=D3E4CD&height=300&section=header&text=Hello%Stranger%!%!&fontColor=F9F9F9&fontSize=70&fontAlignY=40)
-#  👋🏻
 
-# Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+# Hello Stranger, Hello World! 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 --------
 <!-- git stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hell0Stranger&show_icons=true&theme=slateorange&show_icons=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hell0Stranger&layout=compact&theme=slateorange)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hell0Stranger&show_icons=true&theme=slateorange&show_icons=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hell0Stranger&hide=css&layout=compact&theme=slateorange)
 
 Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 ------------
