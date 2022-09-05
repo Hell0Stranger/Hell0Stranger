@@ -5,7 +5,7 @@
 # Hello Stranger, Hello World! 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 --------
 <!-- git stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hell0Stranger&show_icons=true&theme=slateorange&show_icons=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hell0Stranger&layout=compact&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hell0Stranger&show_icons=true&theme=vue&show_icons=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hell0Stranger&layout=compact&theme=vue)
 
 Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 ------------
