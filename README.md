@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=D3E4CD&height=300&section=header&text=Hello%Stranger%!%!&fontColor=F9F9F9&fontSize=70&fontAlignY=40)
 
-
-# Hello Stranger, Hello World! 👋<img src="https://giphy.com/clips/cameronpaulsmith-cat-typing-meme-nuufztgCvyJZIuSkgd" width="50">
+https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif
+# Hello Stranger, Hello World! 👋<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="50">
 
 <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/nuufztgCvyJZIuSkgd/video" width="480"></iframe></div>
 --------
