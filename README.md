@@ -1,9 +1,15 @@
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Bitda's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+  </p>
+
+
 <div>
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hell0Stranger&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hell0Stranger&show_icons=true&theme=vue)
+
 
   
   ### Hell0Stranger  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" align="center">
@@ -37,8 +43,9 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHell0Stranger&count_bg=%23DDF5CB&title_bg=%2397C68D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apple180g@gmail.com)](mailto:apple180g@gmail.com)
-# :mailbox_with_mail: Contacts
 
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  </p>
 
