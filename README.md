@@ -1,12 +1,13 @@
 
+
+
+
+
+<div align="center">
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=62b3b9&height=180&section=header&text=Bitda's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45&fontColor=ffffff" />
   </p>
 
-
-<div>
-
-<div align="center">
 
   <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" align="center">
     <span>어제보다 오늘 더 빛날 수 있도록, <strong>빛다</strong> 입니다. </span>
@@ -27,7 +28,7 @@
   </br></br></br>
 
   
-  #### 아래와 같은 내용들은 공부하였습니다 😊
+  #### 아래와 같은 내용들을 공부했어요. 😊
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
@@ -48,14 +49,17 @@
     
 
 
-</div>
+**Contact:** apple380g@gmail.com 💌
+</br></br></br></br>
+ 
 
-</br></br></br>
-  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hell0Stranger&show_icons=true&theme=vue)
+
+
 
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=62b3b9&height=100&section=footer" />
   </p>
 
+</div>
