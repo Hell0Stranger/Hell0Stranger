@@ -41,7 +41,7 @@
  
   <br>
   
-  <a href="https://devmj.notion.site/What-doesn-t-kill-you-makes-you-stronger-0b0c67366f0f4c89bfae434f203ee6e4"><img src="https://img.shields.io/badge/Bitda.notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://devmj.notion.site/Make-IT-Play-IT-Just-do-IT-b7d4b2d4485d44eeb35341cf6487f645"><img src="https://img.shields.io/badge/Bitda.notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
    <a href="https://github.com/Z-P0P/ZPOP"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHell0Stranger&count_bg=%23DDF5CB&title_bg=%2397C68D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
